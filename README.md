@@ -23,7 +23,7 @@
 
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chupii37&theme=radical&hide_border=true&fire=faae2b" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Chupii37&theme=radical&hide_border=true&fire=faae2b" alt="GitHub Streak" />
 
 </div>
 
