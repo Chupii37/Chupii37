@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Wen%20Lambo?&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Coding%20my%20way%20out%20of%20poverty&descAlignY=55&descSize=16)
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=It+works...+somehow;Powered+by+Coffee;Ctrl+C+%26+Ctrl+V;Beep+Boop+%F0%9F%A4%96;Too+lazy+to+click;Scripts+go+brrr;Testing+in+Production;Works+on+my+machine;It's+a+feature,+not+a+bug" alt="Typing SVG" />
 
   <br/>
