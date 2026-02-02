@@ -11,7 +11,12 @@
   <a href="https://saweria.co/chupii">
     <img src="https://img.shields.io/badge/Fuel_My_Addiction-Saweria-faae2b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" />
   </a>
-  
+
+   <p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-20C20E?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Chupii37&label=Hacker%20Traffic&color=FF00FF&style=for-the-badge" alt="Visitor Count" />
+</p>
+
   <br/><br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -36,11 +41,24 @@ Just a dude who spends 90% of the time debugging and 10% actually coding. I writ
 * **Superpower:** Copying from StackOverflow without looking.
 * **Motto:** "It's not a bug, it's a surprise feature."
 
-### 💥 Weapons of Mass Destruction (Tech Stack)
-* **Brain:** `404 Not Found` (Powered by Caffeine)
-* **Languages:** Node.js (Spaghetti flavour), Python (Snake charmer), Bash (Hacker mode)
-* **Tools:** VS Code, Terminal, and a lot of swearing.
-* **Chain:** EVM, Solana, and whatever coin is going to the moon. 🚀
+### 💥 Weapons of Mass Destruction
+<img src="https://img.shields.io/badge/Brain-404_Not_Found-ff0000?style=for-the-badge&logo=caffeine&logoColor=white" alt="Brain 404" />
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Spaghetti_Code-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Snake_Charmer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Hacker_Mode-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-Gas_Fees_Go_Brrr-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-Speed_Demon-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Works_on_my_machine-black?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
 ---
 <div align="center">
